@@ -56,7 +56,7 @@ hr {
 
 .first-screen {
   height: 90vh;
-  background-image: url(/img/header_bg.png);
+  background-image: url(./img/header_bg.png);
   background-position: center;
   background-size: cover;
   text-align: center;
@@ -180,7 +180,7 @@ h1 {
 
 .feedback-block {
   height: 55vh;
-  background-image: url(/img/feedback_bg.png);
+  background-image: url(./img/feedback_bg.png);
   background-position: center;
   background-size: cover;
   padding: 5% 15%;
